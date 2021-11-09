@@ -7,4 +7,4 @@
 
 * Your other friends can give review to your added campground.
 
-* Location of all campgrounds are shown live on maps.
+* Location of all campgrounds are shown on maps.
